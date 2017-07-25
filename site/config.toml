@@ -1,0 +1,31 @@
+baseurl = "/"
+languageCode = "en-us"
+title = "Hi!Charles"
+#  -- 技术博客，致力于最新技术，前端、后端、移动端开发。涉及html5、react、python、node、qt、linux、vps、ios、android、单片机等多种技术类型
+theme = "hugo-theme-casper"
+# disqusShortname = "spf13"
+# Enable Google Analytics by inserting your tracking code
+# googleAnalytics = ""
+# Define how many posts should appear on a site
+paginate = 15
+canonifyurls = true
+
+[params]
+  description = "Chaos. Design. and Programming."
+  cover = "images/cover.jpg"
+  author = "Charles Bao"
+  authorlocation = "Jiangsu, China"
+  authorwebsite = "https://charlesbao.com"
+  bio = "Chaos. Design. and Programming. This is me."
+  logo = "images/logo.svg"
+  # googleAnalyticsUserID = "UA-79101-12"
+  # Optional RSS-Link, if not provided it defaults to the standard index.xml
+  # RSSLink = "http://feeds.feedburner.com/..."
+  # githubName = "charlesbao"
+  # twitterName = ""
+  # facebookName = ""
+  # linkedinName = ""
+  # set true if you are not proud of using Hugo (true will hide the footer note "Proudly published with HUGO.....")
+  hideHUGOSupport = true
+  [params.social]
+    # twitter = "charlesbao0319"
